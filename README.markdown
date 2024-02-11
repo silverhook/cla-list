@@ -13,6 +13,7 @@ This is the goal of this repository – to log, name (and categorise) all the CL
 ## Mid-term plans
 
 - [ ] clean up the texts to be plaintext (or MarkDown, _to be discussed_)
+- [ ] provide unique long and short names for each of them
 - [ ] organize them into categories
 
 Current ideas of categories – _to be discussed_:
